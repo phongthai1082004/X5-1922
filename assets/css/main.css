@@ -35,9 +35,7 @@
     font-style: italic;
     padding: 5px;
 }
-.nav {
 
-}
 .nav__item {
     margin: 0 15px;
     padding: 8px 12px;
@@ -135,6 +133,8 @@
     width:100%;
     height: 330px;
     cursor: pointer;
+    object-fit: cover;
+    object-position: center;
 }
 
 .img__member {
