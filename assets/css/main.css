@@ -144,6 +144,13 @@
     object-position: top center;
     cursor: pointer;
 }
+.img__main-member {
+    width:100%;
+    object-fit: cover;
+    height: auto;
+    object-position: top center;
+    cursor: pointer;
+}
 
 .other__member-img {
     width:100%;
