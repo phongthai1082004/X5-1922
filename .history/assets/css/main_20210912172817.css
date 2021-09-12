@@ -55,10 +55,6 @@
 }
 /* app */
 
-.app__wrapper:last-child {
-    padding-bottom: 20px;
-}
-
 .nav--mobile {
     height: 5.0rem;
     display: none;
