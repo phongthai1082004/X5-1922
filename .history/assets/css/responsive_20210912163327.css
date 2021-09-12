@@ -1,0 +1,55 @@
+/* tablet and mobile */
+
+@media (max-width:1114px) {
+    .class__img {
+        width:100%;
+        height: auto;
+    }
+
+    .class__img {
+        height: auto;
+    }
+
+    .member__content {
+        margin: 20px 0 100px;
+    }
+    .img__member--mobile {
+        height: auto;
+    }
+}
+/* tablet */
+@media (min-width: 740px) and (max-width:1023px) {
+
+}
+/* mobile */
+@media (max-width: 813px) {
+    .nav {
+        display: none;
+    }
+    .img__member {
+        height: auto;
+    }
+    .teacher__img {
+        height: auto;
+    }
+    .letter {
+        font-size: 2.0rem;
+    }
+}
+/* galaxy fold & iphone 5s */
+@media (max-width: 321px) {
+    .letter {
+        font-size: 1.5rem;
+        padding: 12px 10px;
+    }
+    .logo {
+        font-size: 4.0rem;
+    }
+    .footer__wrapper {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 40px;
+    }
+}
+

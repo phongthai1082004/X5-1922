@@ -1,0 +1,77 @@
+/* tablet and mobile */
+
+@media (max-width:1114px) {
+    .class__img {
+        width:100%;
+        height: auto;
+    }
+
+    .class__img {
+        height: auto;
+    }
+    .member__content {
+        margin: 20px 0 100px;
+    }
+    .img__member--mobile {
+        height: auto;
+    }
+}
+/* tablet */
+@media (min-width: 740px) and (max-width:1023px) {
+
+}
+/* mobile */
+@media (max-width: 813px) {
+
+    .content {
+        padding: 120px 20px 0;
+    }
+    .content__heading {
+        font-size: var(--height-30);
+    }
+
+    .content__des {
+        font-size: var(--height-20);
+    }
+
+    .nav__item {
+        margin: 0 10px;
+        font-size: 1.4rem;
+    }
+    .nav {
+        display: none;
+    }
+
+    .nav--mobile {
+        display:flex;
+    }
+    .teacher__img,
+    .img__member {
+        height: auto;
+    }
+    .letter {
+        font-size: 2.0rem;
+    }
+    .footer__des {
+        margin-left: 50px;
+    }
+    .footer__wrapper {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .backtotop {
+        margin-top: 40px;
+    }
+    
+}
+/* galaxy fold & iphone 5s */
+@media (max-width: 654px) {
+    .letter {
+        font-size: 1.5rem;
+        padding: 12px 10px;
+    }
+    
+
+}
+

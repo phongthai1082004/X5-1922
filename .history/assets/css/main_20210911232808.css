@@ -1,0 +1,21 @@
+/* header */
+
+.header__wrapper {
+    display: flex;
+    align-items: center;
+}
+.header {
+    height: 83px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__logo {
+
+}
+.nav {
+
+}
+.nav__item {
+
+}

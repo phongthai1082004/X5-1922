@@ -1,0 +1,16 @@
+/* tablet and mobile */
+
+@media (max-width:1024px) {
+    .class__img {
+        width:100%;
+        height: unset;
+    }
+}
+/* tablet */
+@media (min-width: 740px) and (max-width:1023px) {
+
+}
+/* mobile */
+@media (max-widthL 739px) {
+
+}

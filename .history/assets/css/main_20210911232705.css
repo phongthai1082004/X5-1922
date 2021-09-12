@@ -1,0 +1,19 @@
+/* header */
+
+.header__wrapper {
+    display: flex;
+    align-items: center;
+}
+.header {
+    height: 83px;
+
+}
+.header__logo {
+
+}
+.nav {
+
+}
+.nav__item {
+
+}
