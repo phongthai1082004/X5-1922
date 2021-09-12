@@ -18,13 +18,13 @@
 }
 /* tablet */
 @media (min-width: 740px) and (max-width:1023px) {
-    
-}
-/* mobile */
-@media (max-width: 813px) {
     .img__member {
         height: auto;
     }
+}
+/* mobile */
+@media (max-width: 813px) {
+    
     
     .content {
         padding: 120px 20px 0;
