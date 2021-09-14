@@ -21,6 +21,7 @@
     font-size: inherit;
     transition: inherit;
     scroll-behavior: inherit;
+    text-decoration: inherit;
 }
 
 html {
@@ -29,6 +30,7 @@ html {
     font-family: 'Nunito', sans-serif;
     transition: all 0.2s linear;
     scroll-behavior: smooth;
+    text-decoration: none;
 }
 
 
