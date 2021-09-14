@@ -191,6 +191,7 @@ footer {
     background-color: var(--deep-blue);
     padding: 64px 0px;
     margin-top: 120px;
+    overflow: hidden;
 }
 
 .footer__wrapper {
