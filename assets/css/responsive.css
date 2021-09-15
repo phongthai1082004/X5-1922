@@ -22,6 +22,9 @@
 }
 /* mobile */
 @media (max-width: 813px) {
+    .content__img-wrapper {
+        height: auto;
+    }
     .img__member {
         height: auto;
     }
@@ -86,7 +89,6 @@
     .backtotop {
         margin-top: 40px;
     }
-    
 }
 /* galaxy fold & iphone 5s */
 @media (max-width: 654px) {
@@ -98,11 +100,11 @@
         display: block;
         text-align: center;
     }
-    .img__member {
-        height: auto;
-    }
     .nav__item {
         font-size: 1.5rem;
+    }
+    .img__member {
+        height: auto;
     }
 }
 

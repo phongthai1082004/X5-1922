@@ -250,3 +250,7 @@ footer {
     box-shadow: 0 0 2rem rgb(0 0 0 / 10%);
 }
 
+.footer__des span {
+    font-size: 3.0rem;
+    
+}
