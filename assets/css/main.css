@@ -228,6 +228,9 @@ footer {
     background: -webkit-linear-gradient(0deg,var(--medium-orange), var(--strong-orange) );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -252,5 +255,10 @@ footer {
 
 .footer__des span {
     font-size: 3.0rem;
-    
+    background: -webkit-linear-gradient(0deg,var(--medium-orange), var(--strong-orange) );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    font-style: italic;
+    padding: 0 5px;
 }
