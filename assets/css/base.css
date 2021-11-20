@@ -20,7 +20,7 @@
     font-family: inherit;
     font-size: inherit;
     transition: inherit;
-    scroll-behavior: inherit;
+    scroll-behavior: smooth;
     text-decoration: inherit;
 }
 
@@ -32,8 +32,6 @@ html {
     scroll-behavior: smooth;
     text-decoration: none;
 }
-
-
 .content {
     padding: 120px 50px 0;
 }
