@@ -35,6 +35,9 @@
     font-style: italic;
     padding: 5px;
 }
+.full {
+    height: auto !important;
+}
 
 .nav__item {
     margin: 0 15px;
